@@ -1,5 +1,6 @@
 # BIG UGLY MONOLITH
 
+* create: Nov 12 2015
 * need install colorama
 
 Is a first try to lean python 
